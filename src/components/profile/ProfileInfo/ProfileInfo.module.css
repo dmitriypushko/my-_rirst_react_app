@@ -1,0 +1,12 @@
+.content {
+    grid-area: c;
+    background-color: #ecdaf2;
+  }
+
+.item {
+  color: #ecdaf2;
+}
+
+.descriptionBlock {
+    padding: 10px;
+}
